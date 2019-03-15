@@ -1,8 +1,2 @@
-我是dev分支上的操作
-别人的修改
-master add
-first add dev content
-diff see file diff
-v1 add content
-v2 add content
-feature1 txt
+my is master branch
+ new add dev branch
