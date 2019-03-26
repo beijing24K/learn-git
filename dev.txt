@@ -1,2 +1,7 @@
 quan bu che xiao
+<<<<<<< HEAD
 second to update
+=======
+
+firt to update
+>>>>>>> 25b37695c21a57b40d3e52fce732d8f59c54261b
