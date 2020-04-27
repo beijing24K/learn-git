@@ -1,2 +1,4 @@
 ## 记录git操作
-- 第一次添加README.md
+- git从htts切换到ssh  
+
+    git remote set-url git-SSH地址
